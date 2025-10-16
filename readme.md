@@ -47,7 +47,7 @@ pip install tensorflow numpy
 ### Entraîner le modèle
 
 ```bash
-python mnist_classification.py
+python train_model.py
 ```
 
 Le script va :
