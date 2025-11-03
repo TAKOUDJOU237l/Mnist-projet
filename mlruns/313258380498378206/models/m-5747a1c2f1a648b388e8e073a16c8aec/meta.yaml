@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/LENOVO/Desktop/TP/mlruns/313258380498378206/models/m-5747a1c2f1a648b388e8e073a16c8aec/artifacts
+creation_timestamp: 1762144518648
+experiment_id: '313258380498378206'
+last_updated_timestamp: 1762144530703
+model_id: m-5747a1c2f1a648b388e8e073a16c8aec
+model_type: null
+name: model
+source_run_id: e5e82d9028994e27b04c2e947b51dfe4
+status: 2
+status_message: null

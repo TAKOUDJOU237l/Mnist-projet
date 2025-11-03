@@ -1,0 +1,27 @@
+artifact_path: file:///C:/Users/LENOVO/Desktop/TP/mlruns/313258380498378206/models/m-34e1742d03c44cebb458067f16048962/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.11.3
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.9
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-34e1742d03c44cebb458067f16048962
+model_size_bytes: 4907772
+model_uuid: m-34e1742d03c44cebb458067f16048962
+prompts: null
+run_id: 8e069ea18bc9431e8bc9a43108376ffa
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 784]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    10]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-03 04:34:25.841414'

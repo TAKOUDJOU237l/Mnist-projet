@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/LENOVO/Desktop/TP/mlruns/313258380498378206/978a389096a9438f8f296b4a53b7b21d/artifacts
+end_time: 1762145044739
+entry_point_name: ''
+experiment_id: '313258380498378206'
+lifecycle_stage: active
+run_id: 978a389096a9438f8f296b4a53b7b21d
+run_name: MNIST_adam
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762144987694
+status: 3
+tags: []
+user_id: LENOVO
